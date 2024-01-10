@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hallo. I'm KdChavada & I ❤️ code.</h1>
+<h1>Hallo. I'm KdChavada.</h1>
  
 
 Here are some ideas to get you started:
